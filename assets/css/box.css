@@ -1,0 +1,11 @@
+.box{
+  width: 600px;
+  border: 15px transparent;
+  padding: 50px;
+  margin: 20px;
+  margin-left: 500px;
+  text-align: center;
+}
+.lottie{
+  margin-left: 100px;
+}
